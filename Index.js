@@ -4,5 +4,5 @@ console.log (Elements)
 var VSL = {course1: "basic computer training", course2: "graphics design training", course3: "website design training", course4: "digital marketing training", course5: "social media marketing", course6: "programming training", course7: "UI/UX training", course8: "cybersecurity training", course9: "data analysis training"}
 console.log (VSL)
 
-var  States = {1:17, 2:21, 3:31, 4:21, 5:20, 6:8, 7:23, 8:27, 9:18, 10:25, 11:13, 12:18, 13:16, 14:17, 15:11, 16:27, 17:27, 18:23, 19:44, 20:34, 21:21, 22:21, 23:16, 24:20, 25:13, 26:25, 27:20, 28:18, 29:30, 30:33, 31:17, 32:23, 33:23, 34:16, 35:17 ,36:14}
+var  States = {abia:17, adamawa:21, akwaibom:31, anambra:21, bauchi:20, bayelsa:8, benue:23, borno:27, crossriver:18, delta:25, ebonyi:13, edo:18, ekiti:16, enugu:17, gombe:11, imo:27, jigawa:27, kaduna:23, kano:44, kastina:34, kebbi:21, kogi:21, kwara:16, lagos:20, nasarawa:13, niger:25, ogun:20, ondo:18, osun:30, oyo:33, plateau:17, rivers:23, sokoto:23, taraba:16, yobe:17 ,zamfara:14}
 console.log (States) 
